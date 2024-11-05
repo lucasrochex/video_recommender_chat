@@ -1,5 +1,5 @@
 # Video recommendation chat bot
-A RAG (Retrieval Augmented Generation) system that recommends videos based on your query.
+A RAG (Retrieval Augmented Generation) system that recommends videos based on user query.
 
 The ETL (Extract Tranform and Load) part is done through (ETL) - Populate Vector Store notebook.
 It uses langchain to integrate vector store, llms and embedding models.
